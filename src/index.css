@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,700;0,900;1,300;1,700;1,900&family=Nunito:ital,wght@0,200;0,300;0,400;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800&family=Ravi+Prakash&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+body{
+
+font-family: 'Lato', sans-serif;
+font-family: 'Nunito', sans-serif;
+
+}
+.navbar{
+  background-color: #0014be;
+
+}
+.nav-link{
+  font-size: 18px;
+  color: #ffff;
+  padding: 5px;
+}
+.border-bottom{
+  border-bottom: 20px solid #fff;
+}
+img{
+  width: 30px;
+  margin-left: 5px;
+  margin-right :5px; ;
+}
